@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LinearLayoutTask</string>
+    <string name="reviews">(150 Reviews)</string>
+    <string name="location">UK</string>
+    <string name="date">5 Days ago</string>
+    <string name="country">Russian</string>
+    <string name="job_name">Engineer</string>
+    <string name="time">3 hr</string>
+    <string name="person_name">Bill Gates</string>
+    <string name="rate_value">4.5</string>
+</resources>
